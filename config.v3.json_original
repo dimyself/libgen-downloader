@@ -16,6 +16,14 @@
 		{
 			"src": "https://libgen.gl/",
 			"type": "libgen-plus"
+		},
+		{
+			"src": "https://libgen.bz/",
+			"type": "libgen-plus"
+		},
+		{
+			"src": "https://libgen.vg/",
+			"type": "libgen-plus"
 		}
 	]
 }
